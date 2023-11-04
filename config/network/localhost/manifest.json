@@ -1,6 +1,6 @@
 {
-    "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverAddress": "Omninet.U",
+    "serverName": "Omninet",
     "iconName": "Moon-icon.png",
     "terminalID": "Y56",
     "defaultUser": {
